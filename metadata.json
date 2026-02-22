@@ -1,0 +1,7 @@
+{
+  "name": "Bilingual AI Interview Coach",
+  "description": "Practice interviews in English and your native language with AI-powered feedback and voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
